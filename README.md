@@ -1,2 +1,2 @@
-# curriculum-vitae
+# Curriculum Vitae
 Ejemplo de Curriculum Vitae 
